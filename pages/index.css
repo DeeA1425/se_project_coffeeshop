@@ -10,7 +10,11 @@ margin: 0 auto;
 }
 
 .header {
-    padding:30px 80px 40px;
+    padding: 30px 80px 40px;
+}
+
+.header__image {
+    position: ;
 }
 
 .nav {
@@ -27,4 +31,8 @@ margin: 0 auto;
     gap: 20px;
     padding: 0;
     margin: 0;
+}
+
+.nav__logo { 
+
 }
