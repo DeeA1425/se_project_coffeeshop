@@ -14,7 +14,11 @@ margin: 0 auto;
 }
 
 .header__image {
-    position: ;
+    width: 646px;
+    height: 568px;
+}
+.header__title {
+  max-width: 729px; 
 }
 
 .nav {
@@ -34,5 +38,6 @@ margin: 0 auto;
 }
 
 .nav__logo { 
-
+    width: 105px;
+    height: 39px;
 }
