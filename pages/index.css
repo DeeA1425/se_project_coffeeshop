@@ -31,6 +31,12 @@ font-size: 60px;
 line-height: 72px;
 letter-spacing: -0.6px;
 }
+
+.header__span-accent {
+  color: #3f96f3;
+  display: block;
+}
+
 .header__description {
 font-family: "Noto Serif", arial, sans-serif;
 font-style: normal;    
