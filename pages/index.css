@@ -10,6 +10,9 @@ margin: 0 auto;
 .header {
 padding: 30px 80px 40px;
 position: relative;
+display: flex;
+flex-direction: column;
+height: 800px;
 }
 
 .header__image {
@@ -23,6 +26,7 @@ right: 5px;
 .header__title {
 margin-top: 183px;
 margin-left: 80px;
+margin-bottom: 0;
 max-width: 729px;
 font-family: Inter , arial, sans-serif;
 font-style: normal;
@@ -30,6 +34,7 @@ font-weight: 500;
 font-size: 60px;
 line-height: 72px;
 letter-spacing: -0.6px;
+
 }
 
 .header__span-accent {
