@@ -60,6 +60,9 @@ font-size: 16px;
 line-height: 20px;
 color:#6f6f6f;
 margin-top: auto;
+display:flex;
+justify-content: space-between;
+align-items: flex-end;
 }
 
 .header__paragraph {
