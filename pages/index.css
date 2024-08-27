@@ -13,6 +13,8 @@ position: relative;
 display: flex;
 flex-direction: column;
 height: 800px;
+background-image: url(../images/background_header.svg);
+box-sizing: border-box;
 }
 
 .header__image {
