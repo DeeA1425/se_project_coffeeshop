@@ -59,7 +59,11 @@ font-style: normal;
 font-size: 16px;
 line-height: 20px;
 color:#6f6f6f;
-margin: auto 40px 80px;
+margin-top: auto;
+}
+
+.header__paragraph {
+    margin: 0;
 }
 
 .nav {
