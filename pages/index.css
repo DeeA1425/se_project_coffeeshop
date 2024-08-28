@@ -106,7 +106,7 @@ background-color: #0A2750;
 }
 
 .recipes__titles {
-margin:0;
+margin-top: 0;
 max-width: 580px;
 padding-top: 100px;
 padding-left: 80px;
@@ -133,6 +133,7 @@ display: flex;
 justify-content: center;
 gap: 40px;
 list-style-type: none;
+padding-top: 80px;
 }
 
 .recipes__iframe {
