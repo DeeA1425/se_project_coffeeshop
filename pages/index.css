@@ -112,6 +112,8 @@ box-sizing: border-box;
 
 .recipes__titles {
 margin-top: 100px;
+margin-bottom: 0;
+margin-left: 80px;
 max-width: 580px;
 margin-left: 80px;
 font-family: Inter, arial, sans-serif;
