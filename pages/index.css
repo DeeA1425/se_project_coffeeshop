@@ -147,6 +147,7 @@ padding-bottom: 215px;
 .recipes__iframe {
 margin-top: 24px;
 margin-bottom: 0;
+border: 0;
 }
 
 .recipes__video-caption {
