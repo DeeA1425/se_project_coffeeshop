@@ -161,6 +161,7 @@ line-height: 30px;
 .reservation {
     background-image: url(../images/background_reservation.svg);
     background-size: cover;
-    color:#d9e7ff;
+    color:#000000;
+    background-color: d9e7ff;
     max-width: 385px;
 }
