@@ -162,4 +162,5 @@ line-height: 30px;
     background-image: url(../images/background_reservation.svg);
     background-size: cover;
     color:#d9e7ff;
+    max-width: 385px;
 }
