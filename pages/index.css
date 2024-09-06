@@ -164,4 +164,10 @@ line-height: 30px;
     color:#000000;
     background-color: d9e7ff;
     max-width: 385px;
+
+}
+
+.reservation__title {
+  margin: 0 0 80px;
+  text-align: center;
 }
