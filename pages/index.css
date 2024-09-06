@@ -175,3 +175,7 @@ line-height: 30px;
 .reservation__form {
   margin: 0 auto;
 }
+
+.form__input {
+  display: block;
+}
