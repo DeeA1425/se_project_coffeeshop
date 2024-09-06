@@ -179,3 +179,9 @@ line-height: 30px;
 .form__input {
   display: block;
 }
+
+.form__fieldset {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
