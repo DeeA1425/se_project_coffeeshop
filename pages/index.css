@@ -171,3 +171,7 @@ line-height: 30px;
   margin: 0 0 80px;
   text-align: center;
 }
+
+.reservation__form {
+  margin: 0 auto;
+}
