@@ -163,8 +163,6 @@ line-height: 30px;
     background-size: cover;
     color:#000000;
     background-color: #d9e7ff;
-    max-width: 385px;
-
 }
 
 .reservation__title {
@@ -174,6 +172,10 @@ line-height: 30px;
 
 .reservation__form {
   margin: 0 auto;
+}
+
+.form {
+  max-width: 385px;;
 }
 
 .form__input {
