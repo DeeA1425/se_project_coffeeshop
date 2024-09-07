@@ -200,9 +200,10 @@ line-height: 30px;
 }
 
 .form__label {
-
+width:100%;
 }
 
 .form__button {
-  
+color: #fff;
+background-color: #0000ff;
 }
