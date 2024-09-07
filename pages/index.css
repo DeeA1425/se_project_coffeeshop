@@ -166,8 +166,9 @@ line-height: 30px;
 }
 
 .reservation__title {
-  margin: 100px 0 80px;
+  margin: 0 0 80px;
   text-align: center;
+  padding-top: 100px;
 }
 
 .reservation__form {
