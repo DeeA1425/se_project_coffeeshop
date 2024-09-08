@@ -197,6 +197,8 @@ line-height: 30px;
 
 .form__checkbox {
   border: 2px;
+  width: 20px;
+  height: 20px;
 }
 
 .form__label {
@@ -209,4 +211,11 @@ background-color: #0000ff;
 width: 100%;
 border: none;
 padding: 20px 0 20px;
+margin-bottom: 32px;
+}
+
+.form__label_type_button {
+display: flex;
+justify-content: center;
+gap: 12px;
 }
