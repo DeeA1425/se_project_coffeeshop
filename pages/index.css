@@ -234,7 +234,7 @@ letter-spacing: -0.6px;
   line-height: 20px;
 }
 
-.form__label_type_button {
+.form__label-type-button {
   display: flex;
   justify-content: center;
   gap: 12px;
