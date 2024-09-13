@@ -283,15 +283,6 @@ letter-spacing: -0.6px;
   width: 540px;
 }
 
-.card__list {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
 .card__title {
   margin: 0 0 32px;
   font-family: "Inter"; 
@@ -299,6 +290,15 @@ letter-spacing: -0.6px;
   font-weight: bold; 
   font-size: 20px; 
   line-height: 30px;
+}
+
+.card__list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 .card__list-item {
