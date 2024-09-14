@@ -321,7 +321,13 @@ margin-bottom: 0;
 }
 
 .about {
-
+  background-color: #0A2850;
+  padding: 100px 80px 173px;
+  z-index: 1;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
 }
 
 .about__title {
@@ -330,10 +336,13 @@ margin-bottom: 0;
   font-weight: 500;  
   font-size: 44px;  
   line-height: 52px;
+  max-width: 251px;
+  color: #fff;
+  margin: 0;
 }
 
 .about__content {
-
+  gap: 20px;
 }
 
 .about__paragraph {
@@ -342,8 +351,20 @@ margin-bottom: 0;
   font-weight: normal;  
   font-size: 20px;  
   line-height: 30px;
+  max-width: 660px;
+  color: #fff;
+  top: 119px;
+  right: 80px;
+  bottom: 173px;
 }
 
 .about__circle {
-
+  width: 426px;
+  height:426px;
+  border-radius: 50%;
+  background-color: #1878DC;
+  position: absolute;
+  z-index: -1;
+  top: -152px;
+  left: -129px;
 }
