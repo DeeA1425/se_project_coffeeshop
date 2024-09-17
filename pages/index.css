@@ -327,7 +327,7 @@ letter-spacing: -0.6px;
 }
 
 .card__list-item:last-child {
-margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .card__list-divider {
@@ -375,7 +375,7 @@ margin-bottom: 0;
 
 .about__circle {
   width: 426px;
-  height:426px;
+  height: 426px;
   border-radius: 50%;
   background-color: #1878DC;
   position: absolute;
@@ -426,6 +426,7 @@ margin-bottom: 0;
 .footer__list-item {
   margin-bottom: 16px;
 }
+
 .footer__list-item:last-of-type {
   margin-bottom: 0;
 }
@@ -433,7 +434,7 @@ margin-bottom: 0;
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  left:80px;
+  left: 80px;
 }
 
 .footer__social-link {
@@ -446,7 +447,7 @@ margin-bottom: 0;
   text-decoration: none;
 }
 
-.footer__copyright{
+.footer__copyright {
   font-family: "Inter";
   font-style: normal;
   font-weight: normal;
