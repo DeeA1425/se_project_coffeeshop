@@ -123,12 +123,11 @@ letter-spacing: -0.6px;
   background-image: url(../images/background_recipes.svg);
   background-size: cover;
   box-sizing: border-box;
+  padding: 100px 80px 215px;
 }
 
-.recipes__titles {
-  margin-top: 100px;
-  margin-bottom: 0;
-  margin-left: 80px;
+.recipes__title {
+  margin: 0 0 24px;
   max-width: 580px;
   margin-left: 80px;
   font-family: Inter, arial, sans-serif;
@@ -138,16 +137,14 @@ letter-spacing: -0.6px;
   line-height: 52px;
 }
 
-.recipes__subtitles {
+.recipes__subtitle {
   max-width: 438px;
   font-family: "Noto Serif", arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: 0;
-  margin-top: 24px;
-  margin-left: 80px;
+  margin 0;
 }
 
 .recipes__videos {
@@ -155,8 +152,8 @@ letter-spacing: -0.6px;
   justify-content: center;
   gap: 40px;
   list-style-type: none;
-  padding-top: 80px;
-  padding-bottom: 215px;
+  padding: 0;
+  margin: 80px 0 o;
 }
 
 .recipes__iframe {
@@ -171,6 +168,9 @@ letter-spacing: -0.6px;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 24px 0 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .reservation {
