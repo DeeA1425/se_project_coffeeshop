@@ -1,0 +1,10 @@
+.header {
+padding: 30px 80px 40px;
+position: relative;
+display: flex;
+flex-direction: column;
+height: 800px;
+background-image: url(../images/background_header.svg);
+background-size: cover;
+box-sizing: border-box;
+}

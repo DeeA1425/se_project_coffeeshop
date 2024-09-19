@@ -1,0 +1,6 @@
+.menu {
+    background-image: url(../images/background_menu.svg);
+    background-size: cover;
+    background-color: #fff;;
+    padding: 100px 0 100px;
+  }
