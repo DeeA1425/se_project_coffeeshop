@@ -24,7 +24,7 @@
 }
 
 .about__title {
-  font-family: "Inter" Arial sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;  
   font-weight: 500;  
   font-size: 44px;  
@@ -39,15 +39,14 @@
 }
 
 .about__paragraph {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: normal;  
   font-weight: normal;  
   font-size: 20px;  
   line-height: 30px;
   max-width: 660px;
   color: #fff;
-  top: 119px;
-  right: 80px;
+  
   bottom: 173px;
 }
 
