@@ -19,7 +19,6 @@
     
 .header__title {
   margin-top: 183px;
-  margin-left: 80px;
   margin-bottom: 0;
   max-width: 729px;
   font-family: Inter , arial, sans-serif;
@@ -41,7 +40,6 @@
   font-weight: normal;    
   font-size: 20px;  
   line-height: 30px;
-  margin-left: 80px;
   margin-bottom: 0;
   max-width: 683px;
 }
